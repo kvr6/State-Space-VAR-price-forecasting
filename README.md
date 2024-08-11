@@ -18,8 +18,10 @@ This repository explores the application of state-space models and Vector Autore
 
 ## Data
 
-* **Source:** [Specify the data source here, e.g., a publicly available API or a sample dataset]
-* **Description:** [Briefly describe the data, including the time period, variables, and any relevant details]
+* **Source:** Alpha Vantage API (https://www.alphavantage.co/)
+* **Description:** This project uses historical daily price data for a specific financial instrument (e.g., a currency pair or a commodity) obtained from the Alpha Vantage API. The data includes open, high, low, and close prices, as well as volume.
+* **API Key:** You will need to obtain a free API key from Alpha Vantage to access the data. Instructions on how to obtain an API key can be found on their website.
+* **Example:** The code uses the EUR/USD currency pair as an example, but you can modify it to use other instruments by changing the symbol in the API request.
 
 ## Usage
 
