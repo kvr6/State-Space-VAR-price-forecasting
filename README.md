@@ -68,4 +68,4 @@ Contributions are welcome! Please open an issue or submit a pull request if you 
 
 ## License
 
-[Choose a license and add it here, e.g., MIT License]
+MIT License
